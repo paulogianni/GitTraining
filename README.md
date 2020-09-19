@@ -1,5 +1,5 @@
 # Git Training
 
-![./malandro.jpg](Há!)
+![Há!](./malandro.jpg)
 
 Creating a README file to add on Git Training Repository
